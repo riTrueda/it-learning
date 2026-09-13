@@ -10,3 +10,11 @@ Professional learning environment for Cloud and Automation.
 - Visual Studio Code
 - Git
 - Python
+
+## Learning Goals
+
+- Linux Fundamentals
+- Git and GitHub
+- Python Automation
+- Cloud Computing with Azure
+- Docker and Containers
