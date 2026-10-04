@@ -18,3 +18,7 @@ Professional learning environment for Cloud and Automation.
 - Python Automation
 - Cloud Computing with Azure
 - Docker and Containers
+
+## Current Focus
+
+- Git and GitHub Fundamentals
