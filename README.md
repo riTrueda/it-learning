@@ -22,3 +22,7 @@ Professional learning environment for Cloud and Automation.
 ## Current Focus
 
 - Git and GitHub Fundamentals
+
+## Remote Practice
+
+- Learning Git fetch and pull
